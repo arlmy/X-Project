@@ -20,6 +20,7 @@
   - aJiea/陈捷，[Github](https://github.com/aJiea/BookWriter002)，有语言教育经历
   - 11/张懿奕，[Github](https://github.com/missnacy/BookWriter002)，北化大老师
   - 李长宸/二师兄/，[Github](https://github.com/woodali/BookWriter002)，中文系学生
+  - 余珊，[Github](https://github.com/shanzibnu/BookWriter002)，参与学校的 VR 实验室 
 
 
 
