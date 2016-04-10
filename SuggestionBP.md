@@ -166,5 +166,6 @@ Keynote/PPT 都是不错的选择，现在还有不少类似 Prezi 的工具，�
 
 ## CHANGELOG
 
+- 160411 赵传阳从 [Writer002仓库](https://github.com/OpenMindClub/Writer002/blob/master/SuggestionBP.md) 搬运
 - 160406 小靛从 Writer001 学员笔记中整理迁移
 
