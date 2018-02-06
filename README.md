@@ -12,15 +12,15 @@
 
 ## 项目成员
 - 核心成员
-  - 赵传阳，[Github](https://github.com/arlmy/BookWriter002)，发起人
-  - 尹珺/CherryPotter，[Github](https://github.com/cherryPotter/BookWriter002)
-  - 董琛，[Github](https://github.com/TineeOne/BookWriter002)，本科英语教育方向，对教育行业有了解
-  - 陈启腾，[Github]()，金融研究生，擅长商业计划写作
+  - arlmy，[Github](https://github.com/arlmy/BookWriter002)，发起人
+  - CherryPotter，[Github](https://github.com/cherryPotter/BookWriter002)
+  - DC，[Github](https://github.com/TineeOne/BookWriter002)，本科英语教育方向，对教育行业有了解
+  - CQT，[Github]()，金融研究生，擅长商业计划写作
 - 观察员
-  - aJiea/陈捷，[Github](https://github.com/aJiea/BookWriter002)，有语言教育经历
-  - 11/张懿奕，[Github](https://github.com/missnacy/BookWriter002)，北化大老师
-  - 李长宸/二师兄/，[Github](https://github.com/woodali/BookWriter002)，中文系学生
-  - 余珊，[Github](https://github.com/shanzibnu/BookWriter002)，参与学校的 VR 实验室 
+  - aJiea，[Github](https://github.com/aJiea/BookWriter002)，有语言教育经历
+  - 11，[Github](https://github.com/missnacy/BookWriter002)，北化大老师
+  - 二师兄，[Github](https://github.com/woodali/BookWriter002)，中文系学生
+  - YS，[Github](https://github.com/shanzibnu/BookWriter002)，参与学校的 VR 实验室 
 
 
 
